@@ -1,0 +1,18 @@
+# Frameworks 
+Guidelines used for building plans to help mitigate risks and threats to data and privacy.
+
+Security involves more than just the virtual space. It also includes the physical, which is why many organizations have plans to maintain safety in the work environment. For example, access to a building may require using a key card or badge.
+
+Other security frameworks provide guidance for how to prevent, detect, and respond to security breaches. This is particularly important when trying to protect an organization from social engineering attacks like phishing that target their employees.
+
+People are the biggest threat to security. So frameworks can be used to create plans that increase employee awareness and educate them about how they can protect the organization, their co-workers, and themselves.
+
+# Controls
+Safeguards designed to reduce specific security risks. Three common types:
+- Encryption: converting data from a readable format to an encoded format. 
+    - Typically, involves converting data from plaintext to ciphertext.   
+    - Used to ensure confidentiality of sensitive data.  
+- Authentication: verifying who someone or something is.  
+    - Vishing: exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source. Could be used to impersonate a person's voice to steal their identity and then commit a crime.
+- Authorization: granting access to specific resources within a system.
+    - Used to verify if a person has permission to access a resource.  

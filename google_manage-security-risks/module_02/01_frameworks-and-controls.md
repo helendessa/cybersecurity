@@ -19,7 +19,7 @@ Three common types:
     - Typically, involves converting data from plaintext to ciphertext.   
     - Used to ensure confidentiality of sensitive data.  
 - Authentication: verifying who someone or something is.  
-    - Vishing: exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source. Could be used to impersonate a person's voice to steal their identity and then commit a crime.
+    - Vishing: exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source. Could be used to impersonate a person's voice to steal their identity and then commit a crime. Can exploit biometrics.  
 - Authorization: granting access to specific resources within a system.
     - Used to verify if a person has permission to access a resource.  
 
